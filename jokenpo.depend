@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1627659753 source:c:\users\dms-p\google drive\aprendendo programação\c++\jokenpo\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<stdlib.h>
+
